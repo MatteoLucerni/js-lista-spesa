@@ -1,0 +1,4 @@
+- Creo una lista
+- prendo un elemento target dal DOM
+- **FINO A CHE** non raggungo la lunghezza della lista
+    - Stampo gli elementi della lista nel target
